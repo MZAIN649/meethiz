@@ -1,0 +1,549 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word'xmlns='http://www.w3.org/TR/REC-html40'><head><title>Time</title><!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:Zoom>90</w:Zoom><w:DoNotOptimizeForBrowser/></w:WordDocument></xml><![endif]--><style><!-- /* Style Definitions */@page Section1   {size:8.5in 11.0in;    margin:1.0in 1.25in 1.0in 1.25in ;    mso-header-margin:.5in;    mso-footer-margin:.5in; mso-paper-source:0;} div.Section1   {page:Section1;}--></style></head><meta http-equiv='Content-Type' content='text/html; charset=utf-8'><body lang=EN-US style='tab-interval:.5in'><div class=Section1><p align='right'><span dir='RTL'>نام			_			عائشہ محمود<br>رولنمبر		_			BW624468<br>لیول			_			بیایڈ( اڑھائی سال) <br>کورس کوڈ	_			6480<br>سمسٹر		_			خزاں2021<br>مشق نمبر		_			2<br>     </span></p></div></body></html>
+
+<!DOCTYPE html>
+<html>
+<head id="Head1"><title>
+	Urdu Keyboard - Online Urdu Typing Inpage Text Editor
+</title><meta charset="utf-8" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+   
+    <!-- Css -->
+    <link rel="stylesheet" href="/urdueditor/css/UrduFont.css" /><link rel="stylesheet" href="/urdueditor/css/bootstrap.min.css" /><link rel="stylesheet" href="/urdueditor/css/style.css" /><link rel="stylesheet" href="/urdueditor/css/font-icons.css?new=1" />
+    <!-- Favicons -->
+    <link rel="icon" href="/icon-32x32.png" sizes="32x32" /><link rel="icon" href="/icon-192x192.png" sizes="192x192" />
+
+    <!-- Lazyload (must be placed in head in order to work) -->
+    <script src="/urdueditor/js/lazysizes.min.js"></script>
+
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="https://googletagmanager.com/ns.html?id=GTM-MH9G37" height="0" width="0" style="display: none; visibility: hidden"></iframe>
+    </noscript>
+    <script>        
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src ='//googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MH9G37');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript">
+        if (window.top !== window.self) window.top.location.replace(window.self.location.href);          
+    </script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        var dfpunit88;
+    </script>
+    <script type='text/javascript'>    
+     googletag.cmd.push(function () {
+
+     
+        googletag.defineSlot('/1021105/HW_Web_Header_ROS2', [[970, 250],[970, 90],[728, 90]], 'dfp-unit-1').addService(googletag.pubads());
+        googletag.defineSlot('/1021105/HW_Web_Middle_ROS2', [[300, 250], [336, 280]], 'dfp-unit-2').addService(googletag.pubads());
+        googletag.defineSlot('/1021105/HW_Web_Sidebar_Top_ROS2', [300, 250], 'dfp-unit-3').addService(googletag.pubads());
+        googletag.defineSlot('/1021105/HW_Web_Sidebar_Mid_ROS2', [[300, 250], [300, 600], [160, 600]], 'dfp-unit-4').addService(googletag.pubads());
+        googletag.defineSlot('/1021105/HW_Web_Bottom_ROS2', [300, 250], 'dfp-unit-5').addService(googletag.pubads());
+        googletag.defineSlot('/1021105/HWeb_1x1', [1, 1], 'dfpunit10').addService(googletag.pubads());
+    
+        googletag.pubads().setTargeting("Section", "Articles");
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    </script>
+    <meta name="google-play-app" content="app-id=com.hamariweb.android.newsntv" /><link href="/tv/css/smart-app-banner.css" rel="stylesheet" type="text/css" media="screen" />
+    <style type="text/css">
+        p img
+        {
+            text-align: center;
+        }
+        .nav-icon-toggle__box {
+    width: 18px;
+    height: 20px;
+    position: relative;
+    display: block;
+    padding-left: 0px;
+}
+.smartbanner-android .smartbanner-button {
+    margin-top: 11%;
+}
+    </style>
+    
+    <style type="text/css">
+        .color-gray
+        {
+            color: Gray !important;
+        }
+    </style>
+    <script type="text/javascript">
+        function myFunction() {
+            var copyText = document.getElementById("txt1");
+            copyText.select();
+            copyText.setSelectionRange(0, 99999);
+            document.execCommand("copy");
+
+            var tooltip = document.getElementById("myTooltip");
+            tooltip.innerHTML = "Text Copied!";
+        }
+
+        function outFunc() {
+            var tooltip = document.getElementById("myTooltip");
+            tooltip.innerHTML = "Copy";
+        }
+
+    </script>
+    <meta name="author" content="hamariweb.com" />
+    <meta name="publisher" content="hamariweb.com" />
+    <meta name="copyright" content="https://hamariweb.com" />
+    <meta name="GOOGLEBOT" content="INDEX, FOLLOW" />
+    <meta name="Robots" content="ALL" />
+    <meta name="language" content="english" />
+    <meta name="expires" content="never" />
+    <meta name="rating" content="general" />
+    <meta property="og:url" content="https://hamariweb.com/urdueditor/" />
+    <meta property="og:title" content="Urdu Keyboard Online for Urdu Typing - Inpage Text Editor" />
+    <meta property="og:description" content="Urdu Keyboard utilizes for Urdu typing and Urdu writing digitally on computers and mobile phones. Online Urdu Keyboard works as Urdu Editor like as inpage. Keyboard has features as English to Urdu Typing." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="hamariweb.com" />
+    <meta property="og:image" content="https://hamariweb.com/urdueditor/img/urdu-keyboard.jpg" />
+    <meta property="og:image:url" content="https://hamariweb.com/urdueditor/img/urdu-keyboard.jpg" />
+    <meta property="og:image:type" content="image/jpg" />
+    <meta property="og:image:width" content="350" />
+    <meta property="og:image:height" content="96" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="fb:app_id" content="99808193049" />
+    <link rel="image_src" href="https://hamariweb.com/urdueditor/img/urdu-keyboard.jpg" />
+<meta name="description" content="Urdu Keyboard - New Online Urdu text editor as inpage utilizes for Urdu typing and writing digitally on pc and mobile. Urdu Keyboard has features as English to Urdu typing." /><meta name="keywords" content="Urdu keyboard, Urdu Editor, Urdu typing, Urdu text editor, inpage, English to Urdu, Urdu writing, Urdu keyboard online" /></head>
+<body id="top" class="bg-light style-default style-rounded" onload="register2()">
+    <form name="form1" method="post" action="./" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NzQ1Mjk1MjMPZBYCZg9kFgICAw9kFgICAQ9kFgICAQ8PZBYCHgpvbmtleXByZXNzBQlzZWFyY2gyKClkZFP/8DgqTy1Yd8npfgjdMj5CtQsBnrTydtcznbHEy5sy" />
+</div>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="E1DD3762" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMKSLU2DHR/Of+NxeOQxgRS8Z5ji/s/gJZyuM7d7M5+QYr6qUsGZPiWZ59EDqs/fvNIFWJK/RY+Swmnl1nhRZ8pkehySQ//NtxNXMojWrdHzA==" />
+</div>
+  
+    <!-- Bg Overlay -->
+    <div class="content-overlay"></div>
+
+    <!-- Sidenav -->
+    <header class="sidenav" id="sidenav">
+        <!-- close -->
+        <div class="sidenav__close">
+            <span class="sidenav__close-button" id="sidenav__close-button" aria-label="close sidenav">
+            <i class="ui-close sidenav__close-icon"></i></span>
+        </div>
+        <!-- Nav -->
+        <nav class="sidenav__menu-container">
+            <ul class="sidenav__menu" role="menubar">
+                <li><a style="color: #007dc5;" href="/urdueditor/" class="sidenav__menu-url">Urdu Editor</a>                   
+                </li>
+                <li><a class="sidenav__menu-url" href="/news/">NEWS</a></li>                
+                <li><a class="sidenav__menu-url" href="/finance/">BUSINESS</a></li>
+                <li><a class="sidenav__menu-url" href="/mobiles/">MOBILE</a></li>
+                <li><a class="sidenav__menu-url" href="/cricket/">CRICKET</a></li>
+                <li><a class="sidenav__menu-url" href="/islam/">ISLAM</a></li>
+                <li><a class="sidenav__menu-url" href="/women-corner/">WOMEN</a></li>
+                <li><a class="sidenav__menu-url" href="/names/">NAMES</a></li>
+                <li><a class="sidenav__menu-url" href="https://health.hamariweb.com">HEALTH</a></li>
+                <li><a class="sidenav__menu-url" href="https://shop.hamariweb.com/">SHOP</a></li>
+                <li><a class="sidenav__menu-url" href="#">More</a>
+                    <button class="sidenav__menu-toggle" aria-haspopup="true" aria-label="Open dropdown">
+                        <i class="ui-arrow-down"></i>
+                    </button>
+                    <ul class="sidenav__menu-dropdown uppercase">
+                        
+                        <li><a class="sidenav__menu-url" href="https://shop.hamariweb.com/">SHOP</a></li>
+                        <li><a class="sidenav__menu-url" href="https://autos.hamariweb.com/">AUTOS</a></li>
+                        <li><a class="sidenav__menu-url" href="https://enews.hamariweb.com/">ENews</a></li>
+                        <li><a class="sidenav__menu-url" href="/recipes/">Recipes</a></li>
+                        <li><a class="sidenav__menu-url" href="/poetries/">Poetries</a></li><li><a class="sidenav__menu-url"
+                            href="https://results.hamariweb.com/">Results</a></li>
+                        <li><a class="sidenav__menu-url" href="https://videos.hamariweb.com/">Videos</a></li>
+                        <li><a class="sidenav__menu-url" href="/calculators/">Calculators</a></li>                        
+                        <li><a class="sidenav__menu-url" href="/directories/">Directory</a></li>
+                        <li><a class="sidenav__menu-url" href="/pakistan-weather/">Weather</a></li>
+                        <li><a class="sidenav__menu-url" href="https://mypage.hamariweb.com/">MyPage</a></li>
+                        <li><a class="sidenav__menu-url" href="https://photos.hamariweb.com/">Photos</a></li>
+                        <li><a class="sidenav__menu-url" href="/urdueditor/">Urdu Editor</a></li>
+                        <li><a class="sidenav__menu-url" href="https://travel.hamariweb.com/">Travel &amp; Tours</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+        <div class="socials sidenav__socials">
+            <a class="social social-facebook" href="https://facebook.com/HamariWebsite" target="_blank"
+                aria-label="facebook"><i class="ui-facebook"></i></a><a class="social social-twitter"
+                    href="https://twitter.com/hamariweb" target="_blank" aria-label="twitter"><i class="ui-twitter">
+                    </i></a><a class="social social-youtube" href="https://youtube.com/channel/UCbj9s8SpJjgDob09hixKlJQ/videos"
+                        target="_blank" aria-label="youtube"><i class="ui-youtube"></i></a>
+        </div>
+    </header>
+    <!-- end sidenav -->
+    <main class="main oh" id="main">
+
+    
+    <!-- Navigation -->
+    <header class="nav">
+      <div class="nav__holder" style="width:100%">
+        <div class="container relative">
+          <div class="flex-parent">
+
+            <!-- Side Menu Button -->
+            <span class="nav-icon-toggle" id="nav-icon-toggle" aria-label="Open side menu">
+              <span class="nav-icon-toggle__box">
+                <span class="nav-icon-toggle__inner"></span>
+              </span>
+            </span> 
+
+            <!-- Logo -->
+            <a href="/" class="logo">
+              <img class="logo__img" src="/dictionaries/img/logo_default@2x.png" alt="logo">
+            </a>
+          
+            <!-- Nav-wrap -->
+            <nav class="flex-child nav__wrap d-none d-lg-block">              
+              <ul class="nav__menu">                
+         <li> 
+          <a style="color:#007dc5;" href="/urdueditor/">Urdu Editor</a>           
+        </li>       
+
+        <li> <a href="/news/">NEWS</a></li>      
+        
+      <li> <a href="/finance/">BUSINESS</a></li>      
+      <li> <a href="/mobiles/">MOBILE</a></li>      
+        <li> <a href="/cricket/">CRICKET</a></li>              
+        <li> <a href="/islam/">ISLAM</a></li>      
+        <li> <a href="/women-corner/">WOMEN</a></li>       
+        <li> <a href="/names/">NAMES</a></li>      
+        <li> <a href="https://health.hamariweb.com">HEALTH</a></li>      
+        
+                <li class="nav__dropdown">
+                  <a href="#">More</a>
+                  <ul class="nav__dropdown-menu uppercase">
+        <li> <a href="https://shop.hamariweb.com/">SHOP</a></li>                        
+        <li> <a href="https://autos.hamariweb.com/">AUTOS</a></li>       
+        
+<li><a href="https://enews.hamariweb.com/">ENews</a></li>
+<li><a href="/recipes/">Recipes</a></li>
+<li><a href="/poetries/">Poetries</a></li><li>
+<a href="https://results.hamariweb.com/">Results</a></li>
+<li>
+<a href="https://videos.hamariweb.com/">Videos</a></li>
+<li>
+<a href="/calculators/">Calculators</a></li>
+<li>
+<a href="/directories/">Directory</a></li>
+<li>
+<a href="/pakistan-weather/">Weather</a></li>
+<li>
+<a href="https://mypage.hamariweb.com/">MyPage</a></li>
+<li>
+<a href="https://photos.hamariweb.com/">Photos</a></li>
+<li>
+<a href="/urdueditor/">Urdu Editor</a></li>
+<li>
+<a href="https://travel.hamariweb.com/">Travel &amp; Tours</a></li>
+
+                  </ul>
+                </li>                
+
+
+              </ul> <!-- end menu -->
+            </nav> <!-- end nav-wrap -->
+
+            <!-- Nav Right -->
+            <div class="nav__right">            
+              <!-- Search -->
+              <div class="nav__right-item nav__search">
+                <a href="#" class="nav__search-trigger" id="nav__search-trigger">
+                  <i class=""></i>
+                </a>
+                <div class="nav__search-box" id="nav__search-box">
+                  <div class="nav__search-form">
+                  
+                  
+                  </div>
+                </div>                
+              </div>             
+                
+            </div>
+             <!-- end nav right -->            
+        
+          </div> <!-- end flex-parent -->
+        </div> <!-- end container -->
+            
+      </div>  
+    </header>     <!-- end navigation -->
+  
+    <div class="clear" style="height:10px"></div>
+    <div class="container">
+        <table cellspacing="0" cellpadding="0" width="100%" align="center">
+            <tr>
+                <td align="center">
+                    <div id='dfp-unit-1'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function () { googletag.display('dfp-unit-1'); });
+                        </script>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="clear"></div>
+
+    <div class="container">
+       
+    <ul class="breadcrumbs">
+        <li class="breadcrumbs__item"><a class="breadcrumbs__url" href="/">Home</a></li>
+        <li class="breadcrumbs__item"><a class="breadcrumbs__url">Urdu Keyboard Online</a></li>
+    </ul>
+
+    </div>
+    
+    
+    
+    <div class="main-container container pt-16" id="main-container">      
+    
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="content-box mb-40">
+                <h1 class="section-title">Urdu Keyboard  & Text Editor Online</h1>
+                <p class="clear mb-40">
+                    Urdu Keyboard utilize for Urdu typing and Urdu writing digitally on computers as well as on mobile phones. Hamariweb’s Urdu Keyboard makes convenient to utilize keyboard for typing in Urdu text without installing keyboard or Urdu fonts. Simply, type in Urdu and save or copy the written text for personal or official use.</p>
+                <table width="100%" border="0">
+                    <tbody>
+                        <tr>
+                            <td width="100%" align="center" colspan="2">
+                                <map name="FPMap0">
+                                    <area shape="RECT" coords="4,4,26,22" href="Javascript:hurf('zal')">
+                                    <area shape="RECT" coords="30,5,50,22" href="Javascript:hurf('dhal')">
+                                    <area shape="RECT" coords="53,4,72,21" href="Javascript:hurf('dal')">
+                                    <area shape="RECT" coords="76,4,99,23" href="Javascript:hurf('khay')">
+                                    <area shape="RECT" coords="103,4,123,23" href="Javascript:hurf('hay1')">
+                                    <area shape="RECT" coords="128,3,147,22" href="Javascript:hurf('chay')">
+                                    <area shape="RECT" coords="153,3,172,22" href="Javascript:hurf('jim')">
+                                    <area shape="RECT" coords="178,4,196,21" href="Javascript:hurf('say')">
+                                    <area shape="RECT" coords="201,4,222,22" href="Javascript:hurf('thay')">
+                                    <area shape="RECT" coords="225,3,245,22" href="Javascript:hurf('tay')">
+                                    <area shape="RECT" coords="251,3,272,23" href="Javascript:hurf('pay')">
+                                    <area shape="RECT" coords="277,2,296,21" href="Javascript:hurf('bay')">
+                                    <area shape="RECT" coords="305,2,320,23" href="Javascript:hurf('alif')">
+                                    <area shape="RECT" coords="329,2,349,22" href="Javascript:hurf('alifmada')">
+                                    <area shape="RECT" coords="4,27,24,45" href="Javascript:hurf('qaf')">
+                                    <area shape="RECT" coords="28,28,50,44" href="Javascript:hurf('fay')">
+                                    <area shape="RECT" coords="54,27,71,46" href="Javascript:hurf('gain')">
+                                    <area shape="RECT" coords="79,27,97,45" href="Javascript:hurf('ain')">
+                                    <area shape="RECT" coords="104,26,123,45" href="Javascript:hurf('zhoy')">
+                                    <area shape="RECT" coords="129,27,146,42" href="Javascript:hurf('thoy')">
+                                    <area shape="RECT" coords="153,26,172,44" href="Javascript:hurf('duad')">
+                                    <area shape="RECT" coords="180,27,196,45" href="Javascript:hurf('suad')">
+                                    <area shape="RECT" coords="203,27,221,45" href="Javascript:hurf('sheen')">
+                                    <area shape="RECT" coords="225,26,245,46" href="Javascript:hurf('seen')">
+                                    <area shape="RECT" coords="252,26,272,44" href="Javascript:hurf('zhay')">
+                                    <area shape="RECT" coords="277,28,298,45" href="Javascript:hurf('zay')">
+                                    <area shape="RECT" coords="302,27,320,46" href="Javascript:hurf('rahy')">
+                                    <area shape="RECT" coords="328,27,349,46" href="Javascript:hurf('ray')">
+                                    <area shape="RECT" coords="4,51,23,69" href="Javascript:hurf('bariya')">
+                                    <area shape="RECT" coords="28,49,47,67" href="Javascript:hurf('ya')">
+                                    <area shape="RECT" coords="54,51,72,67" href="Javascript:hurf('yamada')">
+                                    <area shape="RECT" coords="78,51,96,66" href="Javascript:hurf('dochachmihay')">
+                                    <area shape="RECT" coords="104,49,121,66" href="Javascript:hurf('hay')">
+                                    <area shape="RECT" coords="128,51,147,68" href="Javascript:hurf('hamza')">
+                                    <area shape="RECT" coords="152,49,171,68" href="Javascript:hurf('wowmada')">
+                                    <area shape="RECT" coords="176,49,196,69" href="Javascript:hurf('wow')">
+                                    <area shape="RECT" coords="203,51,220,68" href="Javascript:hurf('gunah')">
+                                    <area shape="RECT" coords="227,49,247,68" href="Javascript:hurf('noon')">
+                                    <area shape="RECT" coords="253,48,272,68" href="Javascript:hurf('mim')">
+                                    <area shape="RECT" coords="277,49,297,67" href="Javascript:hurf('lam')">
+                                    <area shape="RECT" coords="301,50,320,67" href="Javascript:hurf('gaf')">
+                                    <area shape="RECT" coords="326,48,349,69" href="Javascript:hurf('kaf')">
+                                    <area shape="RECT" coords="301,75,348,92" href="Javascript:hurf('entr')">
+                                    <area shape="RECT" coords="229,73,298,92" href="Javascript:hurf('space')">
+                                    <area shape="RECT" coords="155,74,223,91" href="Javascript:hurf('bspace')">
+                                    <area shape="RECT" coords="127,74,147,94" href="Javascript:hurf('dash')">
+                                    <area shape="RECT" coords="104,75,125,91" href="Javascript:hurf('Allah')">
+                                </map>
+                                <img height="96" src="img/Keyboard_New.jpg" width="350" usemap="#FPMap0" border="0" alt="" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" valign="bottom">
+                                <textarea name="ctl00$MainPageSlider$txt1" rows="10" cols="20" id="txt1" class="UrduTextNafeesPara" placeholder="اردو ٹیکسٹ یہاں لکھنا شروع کریں" dir="rtl" onkeypress="search2()" style="border-color:Navy;">
+نام			_			عائشہ محمود
+رولنمبر		_			BW624468
+لیول			_			بیایڈ( اڑھائی سال) 
+کورس کوڈ	_			6480
+سمسٹر		_			خزاں2021
+مشق نمبر		_			2
+     </textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="center" valign="top">
+                                <input type="submit" name="ctl00$MainPageSlider$Button1" value="Save as Word Document" id="Button1" class="btn-button btn-dark mt-16" />
+                                <div class="tooltip mt-16">
+                                    <input type="button" onclick="myFunction()" onmouseout="outFunc()" class="btn-button btn-dark" value="Copy Text" />
+                                    <span class="tooltiptext" id="myTooltip">Copy</span>
+                                </div>
+                                <input type="button" class="btn-button btn-dark mt-16" onclick="javascript:window.location='https://hamariweb.com/dictionaries/urdu-english-dictionary.aspx';" value="English to Urdu Dictionary" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left">
+                                <br />
+                                <p class="color-gray">
+                                    <b>COPY:</b> Simply click COPY button and PASTE where you want.</p>
+                                <p class="color-gray">
+                                    <b>SAVE / DOWNLAOD:</b> Click SAVE button and text will be download in Word file.</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="content-box mb-40">
+                <h3>
+                    Online Urdu Editor</h3>
+                <p>
+                    Online Urdu editor is one of the most demanded tools for all who use to write in Urdu language. It not only create ease in typing but also available online that can use anywhere with internet facility. Urdu keyboard online is an essential to avoid hassle in Urdu Typing. The inpage Urdu keyboard layout is a perfect tool to use as an online Urdu editor. This Urdu typing software has a key significance, that's why the on-screen Urdu keyboard online free is much popular among users. However, some people also use the Google Urdu keyboard for that purpose. It also help to write easily in Urdu if you are trying to find any meaning from Urdu to English dictionary and wants to write the letter in Urdu.</p>
+                <p>
+                    This online Urdu keyboard allows you to do <a href="https://hamariweb.com/dictionaries/urdu-english-dictionary.aspx">English to Urdu</a> typing. However, you can simply type in the Urdu language utilizing the regular keyboard across different devices. The online Urdu keyboard provides instant Urdu text on tablets, iPad, PC, and mobile devices (Android and iPhone) for free. For tablets and mobile phones, just touch and hold inside the text area to copy the text. In the next step, paste the text in any app such as WhatsApp, Facebook, Twitter, E-Mail, or search app.</p>
+                <p>
+                    How to write Urdu typing is one difficult think for user but now it a very easy as Hamariweb.com give you free Urdu text editor or Urdu Keyboard Online for typing in Urdu. You can write text in Urdu and save in your pc in the form of Microsoft word document or copy and paste in your html file or paste in any messenger and send message in Urdu. There is attached online inpage Pakistani Urdu Keyboard for PC. This is also very useful for Urdu lovers living in UK, USA, America, India, Saudi Arabia and Canada.</p>
+                <p>
+                    Urdu typing is supposed to be a difficult task for users. Hamariweb has come up with Urdu Editor. It is a helpful tool to write in the Urdu language without any hassle. Now the Urdu typing and editing is a piece of cake with this easy Urdu typing and editing platform. This Urdu Keyboard enables you to easily type Urdu online without installing the Urdu keyboard. You can use your computer keyboard to type Urdu letters with this online keyboard. With this Simple Urdu keyboard, content can be edit as well. Type Urdu online content with this platform that gives you free Urdu text editor or Urdu keyboard for typing in Urdu. This Urdu Editor for pc works smoothly with a simple Urdu keyboard. You are all free to utilize this Urdu Editor to write Urdu Online.</p>
+            </div>
+        </div>
+    </div>
+ 
+       </div>
+
+    
+    
+    <!-- Footer -->
+    <footer class="footer footer--dark">
+      <div class="container">
+      <div class="col-lg-12">
+        <div class="footer__widgets">
+          <div class="row row-8">
+
+            <div class="col-lg-2 col-xs-12">
+              <aside class="widget widget-logo">
+                <p class="copyright">
+                  © 2020 Hamariweb.com
+                </p>
+                <div class="socials socials--large socials--rounded mb-0">
+                  <a href="https://facebook.com/HamariWebsite" class="social social-facebook" aria-label="facebook"><i class="ui-facebook"></i></a>
+                  <a href="https://twitter.com/hamariweb" class="social social-twitter" aria-label="twitter"><i class="ui-twitter"></i></a>
+                  <a href="https://youtube.com/channel/UCbj9s8SpJjgDob09hixKlJQ/videos" class="social social-youtube" aria-label="youtube"><i class="ui-youtube"></i></a>
+                </div>
+              </aside>
+            </div>
+
+            <div class="col-lg-2 col-md-6 col-xs-6">
+              <aside class="widget widget_nav_menu">
+                <ul>
+                  <li><a href="/aboutus.aspx">About us</a></li>
+                  <li><a href="/contactus.aspx">Contact us</a></li>
+                  <li><a href="/advertising.aspx">Advertising</a></li>
+                  <li><a href="/privacypolicy.aspx">Privacy Policy</a></li>
+                  
+                </ul>
+              </aside>
+            </div>  
+             <div class="col-lg-2 col-md-6 col-xs-6">
+              <aside class="widget widget_nav_menu">
+                <ul>
+                  <li><a href="/tv/">TV Channels</a></li>
+                  <li><a href="/news/">News</a></li>
+                  <li><a href="https://enews.hamariweb.com/">E-News</a></li>
+                  <li><a href="/finance/">Finance</a></li>
+                  
+                  
+                </ul>
+              </aside>
+            </div>  
+             <div class="col-lg-2 col-md-6 col-xs-6">
+              <aside class="widget widget_nav_menu">
+                <ul>
+                  <li><a href="/articles/">Articles</a></li>
+                  <li><a href="/cricket/">Cricket</a></li>
+                  <li><a href="/dictionaries/">Mobile Phones</a></li>
+                  <li><a href="/islam/">Islam</a></li>
+                  
+                  
+                </ul>
+              </aside>
+            </div>  
+             <div class="col-lg-2 col-md-6 col-xs-6">
+              <aside class="widget widget_nav_menu">
+                <ul>
+                  <li><a href="/names/">Names</a></li>
+                  <li><a href="/dictionaries/">Dictionaries</a></li>
+                  <li><a href="/recipes/">Recipes</a></li>
+                  <li><a href="/poetries/">Poetries</a></li>
+                  
+                </ul>
+              </aside>
+            </div>  
+            
+             <div class="col-lg-2 col-md-6 col-xs-6">
+              <aside class="widget widget_nav_menu">
+                <ul>
+                  <li><a href="https://health.hamariweb.com/">Health</a></li>
+                  <li><a href="https://results.hamariweb.com/">Academic Results</a></li>
+                  <li><a href="/directories/">Directories</a></li>
+                  <li><a href="https://videos.hamariweb.com/">Videos</a></li>
+                  
+                </ul>
+              </aside>
+            </div>  
+            
+
+          </div>
+        </div>    
+        </div>
+      </div> <!-- end container -->
+    </footer> <!-- end footer -->
+
+
+    <div id="back-to-top">
+      <a href="#top" aria-label="Go to top"><i class="ui-arrow-up"></i></a>
+    </div>
+    <div class="clear spacer"></div>
+  </main>
+    <!-- end main-wrapper -->
+    <!-- jQuery Scripts -->    
+    <script src="/urdueditor/js/dic.js"></script>
+    <script src="/urdueditor/js/keyboard.js"></script>
+    <script src="/urdueditor/js/Combine1.min.js"></script>
+    <script type="text/javascript" src="/urdueditor/js/underscore-min.js"></script>    
+    <script src="/urdueditor/js/bootstrap.min.js"></script>    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+        WebFont.load({
+            google: {
+                families: ['Source Sans Pro:400,600,700', 'Montserrat:400,600,700']
+            }
+        });
+    </script>
+    
+                                 
+    
+    <!-- /1021105/HWeb_1x1 -->
+    <div id='dfpunit10' style='height: 1px; width: 1px;'>
+        <script>
+            googletag.cmd.push(function () { googletag.display('dfpunit10'); });
+        </script>
+    </div>
+    </form>
+</body>
+</html>

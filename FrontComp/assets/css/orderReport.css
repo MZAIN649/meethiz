@@ -1,0 +1,39 @@
+
+.hide{
+    display             :       none; 
+}
+.washing-bg{
+    background-color    : #2FA4E7;
+}
+.washing-color{
+    color               : #2FA4E7; 
+}
+.rewash-bg{
+    background-color    : #DD5600 ;
+}
+.rewash-color{
+    color               : #DD5600 ;
+}
+.completed-bg{
+
+    background-color    : #73A839 ;
+}
+.completed-color{
+    color               : #73A839 ;
+}
+.processing-bg{
+    background-color    : #C71C22 ;
+}
+.processing-color{
+    color               : #C71C22 ;
+}
+.total-bg{
+    background-color    : #0083B0;
+}
+.total-color{
+    color               : #0083B0;
+}
+.table-responsive{
+    background-color    : white;
+    width               :  100%;
+}
